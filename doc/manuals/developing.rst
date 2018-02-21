@@ -1,7 +1,7 @@
 Developing
 ==========
 
-In the following sections, we will refer the executables from the :doc:`tutorials section</tutorials>` section, to look at how you can code using the API.
+In the following sections, we will refer to the executables from the :doc:`tutorials section</tutorials>` section, to look at how you can code using the API.
 We are assuimg the same build hierarchy that is described in the tutorials section.
 
 Python
